@@ -1,0 +1,7 @@
+name: WK2- Q7
+
+jobs:
+  test:
+    steps:
+      - name: 22f2000997@ds.study.iitm.ac.in
+        run: echo "Hello, world!"
