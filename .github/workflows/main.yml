@@ -1,5 +1,7 @@
 name: WK2- Q7
-
+on:
+  workflow_dispatch:
+    
 jobs:
   test:
     steps:
